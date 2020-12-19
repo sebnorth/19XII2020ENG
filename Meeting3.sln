@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise10", "Exercise10\Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excercise11", "Excercise11\Excercise11.csproj", "{72170BB6-DBC3-4D70-B39E-E691A521B648}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise12", "Exercise12\Exercise12.csproj", "{294318A5-81D2-45D4-AF47-F73FAA81E6A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChristmasTree", "ChristmasTree\ChristmasTree.csproj", "{D0D1173D-9042-4633-A1B1-33FCB37BF10D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{72170BB6-DBC3-4D70-B39E-E691A521B648}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72170BB6-DBC3-4D70-B39E-E691A521B648}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72170BB6-DBC3-4D70-B39E-E691A521B648}.Release|Any CPU.Build.0 = Release|Any CPU
+		{294318A5-81D2-45D4-AF47-F73FAA81E6A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294318A5-81D2-45D4-AF47-F73FAA81E6A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294318A5-81D2-45D4-AF47-F73FAA81E6A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294318A5-81D2-45D4-AF47-F73FAA81E6A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0D1173D-9042-4633-A1B1-33FCB37BF10D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D1173D-9042-4633-A1B1-33FCB37BF10D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D1173D-9042-4633-A1B1-33FCB37BF10D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D1173D-9042-4633-A1B1-33FCB37BF10D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
